@@ -1,3 +1,3 @@
-My Project: 
+My Project: https://github.com/swetabhartii/hand-written-digital-prediction/blob/main/Hand_Written_Digital_Prediction_Project_(Data_Analytics).ipynb
 
 I developed a Hand Written Digital Prediction Project utilizing the pandas, numpy, and matplotlib libraries. This project focuses on data analytics to predict handwritten digits. Leveraging the power of pandas for data manipulation, numpy for numerical computations, and matplotlib for visualization, the project processes and analyzes handwritten digit datasets. By implementing machine learning algorithms, it accurately predicts digits from given data. The visualization tools provide insights into data distribution and model performance, making this project a comprehensive approach to understanding and predicting handwritten digits using advanced data analytics techniques.
